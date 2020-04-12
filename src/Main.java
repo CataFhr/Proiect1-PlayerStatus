@@ -10,10 +10,6 @@ public class Main {
 		player.movePlayerTo(3.0, 2.0);
 		System.out.println(player);
 
-//		player.findArtifact(28);
-//		System.out.println(player);
-//		player.findArtifact(13);
-//		System.out.println(player);
 		player.findArtifact(42);
 		System.out.println(player);
 //		player.findArtifact(32);
