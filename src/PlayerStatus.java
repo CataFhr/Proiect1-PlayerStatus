@@ -229,5 +229,5 @@ public class PlayerStatus {
 				+ " \n->Score: " + this.score + " \n->Weapon: " + this.getWeaponInHand() + " \n->Position:("
 				+ this.getPositionX() + "," + this.getPositionY() + ")";
 	}
-
+////////////////////////
 }
