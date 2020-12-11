@@ -50,7 +50,7 @@ public class PlayerStatus {
 				health = 100;
 				lives--;
 				if (lives == 0) {
-					System.out.println("==================  Game Over  ==================");
+					System.out.println("==================  Game Over  ===================");
 					return;
 				}
 			}
